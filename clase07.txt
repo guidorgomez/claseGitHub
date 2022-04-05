@@ -1,0 +1,21 @@
+Clase 07
+
+GridII
+
+/*dos unidades de medida*/
+sirve para trabajar con las medias queries, y responsive.
+em y rem
+1em suele hacer eferencia a 16px, pero si le ponemos 30px al body, 1em equivale a 30px.
+Es decir si quiesieramos que el div tenga 60px, serian 2em.
+
+el em va a tomar el valor igual al contenedor mas cercano que ponga. si el p, esta dentro de un heaer y este dentro de un div, va a tomar el tamaño del div.
+
+Rem
+1 rem me toma el valor predefinido en el navegador = 16px.
+
+Mobile first.
+break points: 320px antalla pequeña, 480 idspositivos pantalla pequea como telefonos
+600 tablets pequeñas
+768 y 1023 tablts
+1024 ipads
+1200 pc de escritorios
